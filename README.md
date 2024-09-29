@@ -4,7 +4,7 @@ This project is a simple clone of the Udemy website's homepage, built using HTML
 
 ### Live Demo
 
-[https://your-username.github.io/udemy-clone/](https://your-username.github.io/udemy-clone/) (Replace with your actual GitHub Pages URL)
+[https://julien-antony20.github.io/udemy/]
 
 ### Features
 
@@ -30,7 +30,7 @@ This project is a simple clone of the Udemy website's homepage, built using HTML
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/udemy-clone.git
+   git clone https://github.com/julien-antony20/udemy.git
    ```
 2. **Open index.html:** 
    Open the `index.html` file in your preferred web browser. 
