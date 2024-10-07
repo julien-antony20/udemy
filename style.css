@@ -89,7 +89,8 @@
 
 .categories p:hover {
     border: black solid 1px;
-    color: transparent;
+    background-color: transparent;
+    color: black;
     transition: 1s;
 }
 
